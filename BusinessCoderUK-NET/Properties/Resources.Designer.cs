@@ -59,15 +59,5 @@ namespace BusinessCoderUK_NET_REST.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap melissa_global_intelligence {
-            get {
-                object obj = ResourceManager.GetObject("melissa-global-intelligence", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
