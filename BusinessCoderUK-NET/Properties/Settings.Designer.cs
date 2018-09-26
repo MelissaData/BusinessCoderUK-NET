@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BusinessCoderUK_NET_REST.Properties {
+namespace BusinessCoderUK_NET.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
